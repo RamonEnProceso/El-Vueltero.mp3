@@ -6,6 +6,16 @@ Acá las dependencias que estoy empleando para el proyecto
 ```bash
 pip install -r requirements.txt
 ```
+---
+
+### Índice:
+- [FoxDot](#FoxDot)
+- [Pyo](#pyo)
+- [SciPy y NumPy](#scipy-y-numpy)
+- [Librosa](#librosa)
+- [PyDub](#pydub)
+- [SoundDevice](#sounddevice)
+- [SoundFile](#soundfile)
 
 ---
 
