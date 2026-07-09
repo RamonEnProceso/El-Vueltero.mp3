@@ -33,6 +33,8 @@ Usos:
 * Patrones
 * Música generativa
 
+Iniciar programa con: `python -m FoxDot`
+
 ---
 
 ## Pyo
