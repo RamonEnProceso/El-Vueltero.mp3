@@ -1,4 +1,5 @@
 from pyo import *
+from utils.test_synth import test_synth
 
 def hard_guitar():
     env = Adsr(
@@ -51,3 +52,6 @@ def hard_guitar():
     )
     
     return env, osc, filt
+
+if __name__ == "__main__":
+    test_synth(hard_guitar)
