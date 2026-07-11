@@ -1,4 +1,3 @@
-# synths/guitar.py
 from pyo import *
 
 def hard_guitar():
