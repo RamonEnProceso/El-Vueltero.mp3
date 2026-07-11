@@ -139,3 +139,37 @@ Permite:
 * Trabajar directamente con arrays de NumPy
 * Conservar audio sin pérdidas
 * Manejar archivos de gran tamaño de forma eficiente
+
+---
+
+## Mido
+
+> Lectura de archivos MIDI
+
+Trabajar con archivos `.mid` y MIDI.
+
+Permite:
+
+* Leer archivos MIDI
+* Crear archivos MIDI desde Python
+* Escribir melodías y acordes
+* Acceder a notas, duración y velocidad (Velocity)
+* Leer múltiples pistas (Tracks)
+* Exportar composiciones como archivos `.mid`
+
+---
+
+## wxPython
+
+> Interfaces gráficas de escritorio
+>*Crear ventanas y herramientas visuales para la aplicación*
+
+Complementa a [Pyo](#pyo).
+
+Permite:
+
+* Crear ventanas y cuadros de diálogo
+* Agregar botones, menús y barras de herramientas
+* Utilizar cuadros de texto y etiquetas
+* Mostrar listas y tablas
+* Crear pestañas y paneles
